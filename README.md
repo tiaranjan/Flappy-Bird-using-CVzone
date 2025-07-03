@@ -1,3 +1,3 @@
-his project recreates the classic Flappy Bird game, but with a twist — it’s played using face gestures instead of keyboard inputs. Built using Python, OpenCV, and the CVZone library, the system uses a webcam to detect the player’s face position in real time. When the player moves their head upward, the bird "flaps"; otherwise, gravity pulls it down.
+This project recreates the classic Flappy Bird game, but with a twist — it’s played using face gestures instead of keyboard inputs. Built using Python, OpenCV, and the CVZone library, the system uses a webcam to detect the player’s face position in real time. When the player moves their head upward, the bird "flaps"; otherwise, gravity pulls it down.
 
 The game uses Mediapipe's Face Detection to track the vertical position of the face, translating natural gestures into gameplay. This hands-free interaction creates a fun and interactive AI-powered game experience that merges computer vision and entertainment.
